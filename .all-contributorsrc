@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "SanjayMarreddi",
+      "name": "Sanjay Marreddi",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/57671048?v=4",
+      "profile": "https://www.linkedin.com/in/sanjaymarreddi",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "SEIR_Model",
+  "projectOwner": "SanjayMarreddi",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
