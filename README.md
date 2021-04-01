@@ -6,6 +6,7 @@
 - With the help of mathematical modelling and coding we fitted the COVID-19 data into a complicated compartment model SEIR to understand, analyse, estimate as well as forecast currently prevailing Biological phenomena, COVID-19 Epidemic in a more accurate way.
 -We used some famous and interesting Notebooks from Kaggle as reference.
 
+### You can find the SIR Model developed for the same purpose [here](https://github.com/SanjayMarreddi/SIR_Model)
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
